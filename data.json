@@ -1,0 +1,59 @@
+{
+    "data": {
+        "products": {
+            "nodes": [
+                {
+                    "id": "gid://shopify/Product/15397644566848",
+                    "title": "Gift Card"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644599616",
+                    "title": "The Inventory Not Tracked Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644632384",
+                    "title": "The Minimal Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644665152",
+                    "title": "The Compare at Price Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644697920",
+                    "title": "The Archived Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644730688",
+                    "title": "The Out of Stock Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644763456",
+                    "title": "The Complete Snowboard"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644796224",
+                    "title": "Selling Plans Ski Wax"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644828992",
+                    "title": "The Collection Snowboard: Hydrogen"
+                },
+                {
+                    "id": "gid://shopify/Product/15397644861760",
+                    "title": "The Draft Snowboard"
+                }
+            ]
+        }
+    },
+    "extensions": {
+        "cost": {
+            "requestedQueryCost": 6,
+            "actualQueryCost": 6,
+            "throttleStatus": {
+                "maximumAvailable": 2000.0,
+                "currentlyAvailable": 1994,
+                "restoreRate": 100.0
+            }
+        }
+    }
+}
